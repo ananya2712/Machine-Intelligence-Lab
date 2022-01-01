@@ -1,5 +1,5 @@
 # Machine-Intelligence-Lab
-A repository containing week-wise files of assignments completed as a part of Machine Intelligence Lab ( UE19CS305 )
+A repository containing files of assignments completed as a part of Machine Intelligence Lab ( UE19CS305 )
 
 ## Week 1
 Numpy and Pandas Introduction 
